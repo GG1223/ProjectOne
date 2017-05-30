@@ -1,2 +1,2 @@
-# ProjectOne
+# Veggie
 First Project
