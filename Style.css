@@ -2,3 +2,14 @@ body {
     background-image: url("farm.jpg");
     background-color: #228B22;
 }
+h1,h2 {
+    color: gray;
+    font-size: 28pt;
+}
+p#abc123 {
+    font-size; 16pt;
+}
+p {
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
